@@ -7,7 +7,7 @@ The script reads a video file, identifies red regions using color segmentation i
 
 ## 📁 Project Files
 
-- `3765188-uhd_3840_2160_30fps.mp4` : Original input video used for processing.
+- `7237152-sd_360_640_25fps.mp4` : Original input video used for processing.
 - `color.py` : Python script for red color detection and processing.
 - `output.gif` : Output GIF showing the red object tracking result.
 
